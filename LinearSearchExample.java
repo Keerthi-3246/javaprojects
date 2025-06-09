@@ -4,7 +4,7 @@ public class LinearSearchExample {
 
     public static void main(String[] args) {
         int[] numbers = {5, 9, 8, 6, 4};
-        int target = 0;
+        int target = 8;
         boolean found = false;
 
         for (int i = 0; i < numbers.length; i++) {
